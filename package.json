@@ -1,0 +1,26 @@
+{
+  "name": "githubapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziakeb/githubApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziakeb/githubApi/issues"
+  },
+  "homepage": "https://github.com/ziakeb/githubApi#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "moment": "^2.27.0"
+  }
+}
